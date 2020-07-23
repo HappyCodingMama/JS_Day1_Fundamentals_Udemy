@@ -6,5 +6,7 @@
 003. data types: primitive data types and reference data types 
 004. type conversion : number,boolean,date,array to string / string,boolean,date,array to number<br>
      nan: not a number / parseFloat, parseInt / typeOf, toFixed, length 
+005. Math.PI / Math.E(Euler's Number) / Math.round, Math.ceil, Math.floor / Math.sqrt(square root) / <br>
+     Math.abs(absolute value) / Math.pow / math.min or max/ Math.random
 
  
