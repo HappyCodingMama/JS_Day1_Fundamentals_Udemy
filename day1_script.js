@@ -29,5 +29,48 @@ console.log(greeting);
 //   times: 4
 // }
 
-// console.log(greeting);
+// console.log(greeting.message);
+
+//003. type conversion
+
+// let val;
+
+//number to string, boolean to string, date to string, array to string
+
+// val = 5;
+// val = (5).toString();
+// val = ('star').toString();
+
+// val = '7.3245';
+// val = Number('7.3245');
+
+// val = (true).toString();
+// val = new Date();
+// val = String(new Date());
+// val = (new Date()).toString();
+
+// val = [0, 11, 22, 33, 44, 55];
+// val = String([0, 11, 22, 33, 44, 55]);
+
+//string to number
+// val = Number(null);
+// val = Number(true);
+// val = Number(false);
+// val = 100.4567889;
+// // val = parseInt(val);
+// val = parseFloat(val);
+
+// console.log(val);
+// console.log(typeof val);
+// // console.log(val.length);
+// console.log(val.toFixed(2));
+
+//004.number & the math
+
+
+
+
+
+
+
 
