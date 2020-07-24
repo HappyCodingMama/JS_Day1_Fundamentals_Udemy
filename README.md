@@ -9,5 +9,13 @@
 005. Math.PI / Math.E(Euler's Number) / Math.round, Math.ceil, Math.floor / Math.sqrt(square root) / <br>
      Math.abs(absolute value) / Math.pow / math.min or max/ Math.random
 006. string method & concatenation
+007. Arrays & Arrays Methods
+008. object literal
+009. Dates & Times
+010. if statement&Comparison Operator
+011. switches
+012. function declarations&expression
+013. loop & iterations
+014. The window objects
 
  
