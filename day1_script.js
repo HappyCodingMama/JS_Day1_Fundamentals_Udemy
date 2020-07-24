@@ -31,7 +31,7 @@ console.log(greeting);
 
 // console.log(greeting.message);
 
-//003. type conversion
+//004. type conversion
 
 // let val;
 
@@ -65,7 +65,46 @@ console.log(greeting);
 // // console.log(val.length);
 // console.log(val.toFixed(2));
 
-//004.number & the math
+//005.number & the math
+// const num1 = 15;
+// const num2 = 76;
+
+// val = num1 + num2;
+// val = Math.PI;
+// val = Math.E;
+// val = Math.round(2.72345234);
+// val = Math.random();
+
+// console.log(val);
+// console.log(val.toFixed(2));
+
+//006.string Method & Concatenation
+const firstName = 'Jaeene';
+const lastName = 'Eyre';
+const str = 'apple is my favorite color';
+
+// let val;
+// val = firstName + ' ' + lastName;
+
+// val = 'Jane';
+// val += 'Eyre';
+
+// val = firstName.concat(' ', lastName);
+
+// val = val.toUpperCase();
+
+// val = firstName.indexOf('e');
+
+// val = firstName[3];
+
+// val = firstName.charAt('0');
+
+// val = firstName.charAt(firstName.length - 1);
+
+val = str.replace('color', 'fruit');
+
+console.log(val);
+
 
 
 
